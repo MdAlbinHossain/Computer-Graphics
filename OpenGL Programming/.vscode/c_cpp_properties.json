@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "windowsSdkVersion": "10.0.18362.0",
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "${workspaceFolder}\\mingw32\\bin\\gcc.exe"
+        }
+    ],
+    "version": 4
+}
