@@ -1,6 +1,6 @@
 # Computer-Graphics
 
 ## OpenGL Programming Setup
-- Download and install [Visual Studio Code](https://code.visualstudio.com/download) if you have not already.
-- Install VS Code Extesion [Run++](https://marketplace.visualstudio.com/items?itemName=AlbinBD.run).
-- [Download](https://github.com/MdAlbinHossain/Computer-Graphics/archive/refs/heads/main.zip) or [Clone this repository](https://github.com/MdAlbinHossain/Computer-Graphics) and open in Visual Studio Code.
+- Download and install <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a> if you have not already.
+- Install VS Code Extesion <a href="https://marketplace.visualstudio.com/items?itemName=AlbinBD.run" target="_blank">Run++</a>.
+- [Download](https://github.com/MdAlbinHossain/Computer-Graphics/archive/refs/heads/main.zip) or <a href="https://github.com/MdAlbinHossain/Computer-Graphics" target="_blank">Clone this repository</a> and open in Visual Studio Code.
