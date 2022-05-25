@@ -10,5 +10,7 @@
     "files.exclude": {
         "mingw*": true,
         "Program.exe": true
-    }
+    },
+    "run.inputFile": "A:\\Albin\\Documents\\Academic\\Computer Graphics\\OpenGL Programming\\Input.txt",
+    "run.outputFile": "A:\\Albin\\Documents\\Academic\\Computer Graphics\\OpenGL Programming\\Output.txt"
 }
