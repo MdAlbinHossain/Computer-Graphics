@@ -1,7 +1,7 @@
 {
     "run.timelimit": 300000,
     "run.compiler": "\"${workspaceFolder}\\mingw32\\bin\\g++.exe\"",
-    "run.compilerArgs": "-lfreeglut -lopengl32 -lglu32 -Wl,--subsystem,windows",
+    "run.compilerArgs": "-lfreeglut -lopengl32 -lglu32 -lwinmm -lgdi32 -Wl,--subsystem,windows",
     "run.compilerDirectory": "${workspaceFolder}\\mingw32\\bin\\",
     "C_Cpp.formatting": "vcFormat",
     "breadcrumbs.enabled": false,
